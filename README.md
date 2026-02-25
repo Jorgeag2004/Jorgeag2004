@@ -1,4 +1,6 @@
-# Hi, Im Jorge 👋🏽
+# Hi 👋🏽
+
+I's Jorge, a software engineer working on full stack apps
 
 
 # Tech Stack:
