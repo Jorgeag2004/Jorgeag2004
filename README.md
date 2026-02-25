@@ -1,4 +1,4 @@
-# Hi, Im Jorge [![wavehello](https://cdn3.emoji.gg/emojis/2751-wavehello.png)](https://emoji.gg/emoji/2751-wavehello)
+# Hi, Im Jorge 👋🏽
 
 
 # 💻 Tech Stack:
