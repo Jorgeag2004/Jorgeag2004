@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on [StudyStack](https://github.com/Jorgeag2004/study-stack)
+🔭 I’m currently working on [StudyStack](https://github.com/Jorgeag2004/study-stack)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
